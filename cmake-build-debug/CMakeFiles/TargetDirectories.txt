@@ -1,0 +1,3 @@
+D:/atoa/teste4/cmake-build-debug/CMakeFiles/teste4.dir
+D:/atoa/teste4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/atoa/teste4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
